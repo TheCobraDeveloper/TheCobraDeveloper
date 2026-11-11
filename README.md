@@ -1,38 +1,10 @@
 
-<div align="center">
+🔥 MY PROJECTS
 
-# 🐍 THE COBRA DEVELOPER
-
-### Welcome to My Digital World!
-
-**CODE • CREATE • INNOVATE**
-
-Pakistan 🇵🇰
-
----
-
-### 👨‍💻 ABOUT ME
-
-I'm The Cobra Developer.
-
-- 🚀 Web & App Developer
-- 💻 Building Creative Digital Projects
-- 🐍 Founder of THE FAST COBRA
-- ⚡ Turning Ideas Into Reality
-
-### 🔥 MY PROJECTS
-
-| Project | Description |
-|---|---|
-| THE FAST COBRA | Video & MP3 Downloader |
-| Dulle Wala Connect | Local Community Platform |
-| KING COBRIX | Short Video Creator App |
-| Shaikh Yousaf | Official Website |
-
-### 🎯 MY MISSION
-
-Learn • Build • Grow • Innovate
-
-**THANKS FOR VISITING MY PROFILE!**
-
-</div>
+| Project | Description | Live Website |
+|---|---|---|
+| 🐍 THE FAST COBRA | Video & MP3 Downloader | [Open Website](https://fastcobra.enzonic.dev) |
+| 🌍 Dulle Wala Connect | Local Community Platform | [Open Website](#) |
+| 👑 KING COBRIX | Short Video Creator App | [Open Website](#) |
+| 🌟 Shaikh Yousaf | Official Website | [Open Website](#) |
+| 🤖 COBRA AI PRO | Intelligent AI Assistant | [Open Website](https://cobra-ai.muhajirhackers.workers.dev) |
